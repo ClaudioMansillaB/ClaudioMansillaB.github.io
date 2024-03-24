@@ -1,5 +1,5 @@
 # Data Scientist
-Technical skills: Python, SQL, JavaScrip, MATLAB
+Technical skills: Python, SQL, JavaScript, MATLAB
 
 ### Education
 - Mathematical Engineer | Universidad de Concepción (October 2023)
