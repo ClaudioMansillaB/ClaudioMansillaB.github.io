@@ -2,4 +2,6 @@ title: Claudio Mansilla
 #logo: /assets/img/path.png
 #description: text below image
 #show_donwloads: true
-theme: jekull-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
